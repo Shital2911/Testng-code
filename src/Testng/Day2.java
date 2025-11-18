@@ -42,10 +42,7 @@ public class Day2
 	public void afMethod()
 	{
 		System.out.println("I will execute after all the test");
-		System.out.println("I will execute after all the test");
-		System.out.println("I will ");
-		System.out.println("I will execute after all the test");
-		System.out.println("I will execute after all the test");
+		
 	}
 		
 }
